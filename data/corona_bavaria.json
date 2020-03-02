@@ -1,0 +1,180 @@
+[
+    {
+      "Datum": "02.03.2020",
+      "infiziert": {
+          "gesamt": 35,
+          "neu": 13
+      },
+      "url": "https://de.wikipedia.org/wiki/COVID-19-F%C3%A4lle_in_Deutschland",
+      "Region": 
+        [ 
+            {
+                "Landkreis": "München",
+                "infiziert": {
+                    "gesamt": 3,
+                    "neu": 3
+                },
+                "url": "https://www.bild.de/news/inland/news-inland/coronavirus-in-berlin-nrw-hessen-und-weiteren-bundeslaendern-69089326.bild.html"
+            },
+            {
+                "Landkreis": "Roth",
+                "infiziert": {
+                    "gesamt": 1,
+                    "neu": 1
+                }
+            },
+            {
+                "Landkreis": "Freising",
+                "infiziert": {
+                    "gesamt": 7,
+                    "neu": 6
+                }
+            },
+            {
+                "Landkreis": "Ostallgäu",
+                "infiziert": {
+                    "gesamt": 2,
+                    "neu": 1
+                }
+            },
+            {
+                "Landkreis": "Starnberg",
+                "infiziert": {
+                    "gesamt": 16,
+                    "neu": 0
+                }
+            },
+            {
+                "Landkreis": "Erlangen",
+                "infiziert": {
+                    "gesamt": 1,
+                    "neu": 0
+                }
+            },
+            {
+                "Landkreis": "Nürnberg",
+                "infiziert": {
+                    "gesamt": 1,
+                    "neu": 0
+                }
+            },
+            {
+                "Landkreis": "Bayreuth",
+                "infiziert": {
+                    "gesamt": 2,
+                    "neu": 2
+                }
+            }
+      ]
+    },
+    {
+        "Datum": "01.03.2020",
+        "infiziert": {
+            "gesamt": 20,
+            "neu": 3
+        },
+        "Region": 
+          [ 
+              {
+                  "Landkreis": "Freising",
+                  "infiziert": {
+                      "gesamt": 1,
+                      "neu": 1
+                  }
+              },
+              {
+                  "Landkreis": "Ostallgäu",
+                  "infiziert": {
+                      "gesamt": 1,
+                      "neu": 1
+                  }
+              },
+              {
+                  "Landkreis": "Starnberg",
+                  "infiziert": {
+                      "gesamt": 16,
+                      "neu": 1
+                  }
+              },
+              {
+                  "Landkreis": "Erlangen",
+                  "infiziert": {
+                      "gesamt": 1,
+                      "neu": 0
+                  }
+              },
+              {
+                  "Landkreis": "Nürnberg",
+                  "infiziert": {
+                      "gesamt": 1,
+                      "neu": 0
+                  }
+              }
+        ]
+      },
+      {
+        "Datum": "29.02.2020",
+        "infiziert": {
+            "gesamt": 17,
+            "neu": 3
+        },
+        "Region": 
+          [ 
+              {
+                  "Landkreis": "Starnberg",
+                  "infiziert": {
+                      "gesamt": 15,
+                      "neu": 1
+                  }
+              },
+              {
+                  "Landkreis": "Erlangen",
+                  "infiziert": {
+                      "gesamt": 1,
+                      "neu": 1
+                  }
+              },
+              {
+                  "Landkreis": "Nürnberg",
+                  "infiziert": {
+                      "gesamt": 1,
+                      "neu": 1
+                  }
+              }
+        ]
+      },
+      {
+        "Datum": "14.02.2020",
+        "infiziert": {
+            "gesamt": 14,
+            "neu": 13
+        },
+        "Region": 
+          [ 
+              {
+                  "Landkreis": "Starnberg",
+                  "infiziert": {
+                      "gesamt": 14,
+                      "neu": 13
+                  }
+              }
+        ]
+      },
+      {
+        "Datum": "28.01.2020",
+        "infiziert": {
+            "gesamt": 1,
+            "neu": 1
+        },
+        "Region": 
+          [ 
+              {
+                  "Landkreis": "Starnberg",
+                  "infiziert": {
+                      "gesamt": 1,
+                      "neu": 1
+                  }
+              }
+        ]
+      }
+  ]
