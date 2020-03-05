@@ -1,5 +1,99 @@
 [
     {
+        "Datum": "04.03.2020",
+        "infiziert": {
+            "gesamt": 56,
+            "neu": 20
+        },
+        "Regionen": 
+          [ 
+              {
+                  "Landkreis": "München",
+                  "infiziert": {
+                      "gesamt": 7,
+                      "neu": 4
+                  }
+              },
+              {
+                  "Landkreis": "Roth",
+                  "infiziert": {
+                      "gesamt": 1,
+                      "neu": 0
+                  }
+              },
+              {
+                  "Landkreis": "Freising",
+                  "infiziert": {
+                      "gesamt": 14,
+                      "neu": 7
+                  }
+              },
+              {
+                  "Landkreis": "Ostallgäu",
+                  "infiziert": {
+                      "gesamt": 3,
+                      "neu": 1
+                  }
+              },
+              {
+                  "Landkreis": "Starnberg",
+                  "infiziert": {
+                      "gesamt": 16,
+                      "neu": 0
+                  }
+              },
+              {
+                  "Landkreis": "Erlangen",
+                  "infiziert": {
+                      "gesamt": 2,
+                      "neu": 0
+                  }
+              },
+              {
+                  "Landkreis": "Nürnberg",
+                  "infiziert": {
+                      "gesamt": 4,
+                      "neu": 2
+                  }
+              },
+              {
+                  "Landkreis": "Bayreuth",
+                  "infiziert": {
+                      "gesamt": 2,
+                      "neu": 0
+                  }
+              },
+              {
+                  "Landkreis": "Passau",
+                  "infiziert": {
+                      "gesamt": 2,
+                      "neu": 1
+                  }
+              },
+              {
+                  "Landkreis": "Augsburg",
+                  "infiziert": {
+                      "gesamt": 2,
+                      "neu": 2
+                  }
+              },
+              {
+                  "Landkreis": "Lindau",
+                  "infiziert": {
+                      "gesamt": 2,
+                      "neu": 2
+                  }
+              },
+              {
+                  "Landkreis": "Erding",
+                  "infiziert": {
+                      "gesamt": 1,
+                      "neu": 1
+                  }
+              }
+        ]
+    },
+    {
         "Datum": "03.03.2020",
         "infiziert": {
             "gesamt": 36,
