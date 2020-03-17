@@ -12,9 +12,10 @@ It is created with much rigor, however, several properties should be known:
 #### 1.1 Data description:
 
 #### 1.2 Sources:
+- https://www.stmgp.bayern.de/
+- https://www.lgl.bayern.de/gesundheit/infektionsschutz/infektionskrankheiten_a_z/coronavirus/karte_coronavirus/index.htm
 - https://de.wikipedia.org/wiki/COVID-19-F%C3%A4lle_in_Deutschland
 - https://www.br.de/nachrichten/deutschland-welt/liveticker-aktuelle-informationen-zum-coronavirus,RoxMtok
-- https://www.stmgp.bayern.de/
 - http://opendatalab.de/projects/geojson-utilities/
 - https://de.wikipedia.org/wiki/Liste_der_Landkreise_und_kreisfreien_St%C3%A4dte_in_Bayern
 
