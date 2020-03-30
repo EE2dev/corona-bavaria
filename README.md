@@ -19,6 +19,8 @@ It is created with much rigor, however, several properties should be known:
 - http://opendatalab.de/projects/geojson-utilities/
 - https://de.wikipedia.org/wiki/Liste_der_Landkreise_und_kreisfreien_St%C3%A4dte_in_Bayern
 
+#### Potenial future data sources (not used yet)
+- https://www.divi.de/register/kartenansicht
 
 ## 2. Tools
 
