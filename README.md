@@ -1,3 +1,5 @@
+This page has moved to: https://github.com/EE2dev/dataViz_meetup
+
 # corona-bavaria
 Data about the spread of the corona virus in Bavaria
 
